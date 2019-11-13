@@ -109,7 +109,7 @@ public class Credentials implements Serializable {
 
     @Override
     public String toString() {
-        return "jee.model.Credentials[ id=" + id + " ]";
+        return "model.Credentials[ id=" + id + " ]";
     }
     
 }
